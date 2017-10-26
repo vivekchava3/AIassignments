@@ -1,0 +1,2 @@
+# AIassignments
+ai hw assignments 
